@@ -10,12 +10,11 @@
 
 > **app-engine-python**  ```gcloud components install app-engine-python```
 >
-> **kubectl** ```gcloud components install app-engine-python```
+> **kubectl** ```gcloud components install kubectl```
 >
 
 ### Install Terraform
-> ```curl -O https://releases.hashicorp.com/terraform/0.11.2/terraform_0.11.2_darwin_amd64.zip\?_ga\=2.187257576.1199271896.1516169701-677746182.1510952834```
->
+> https://www.terraform.io/downloads.html
 
 ### Authentication JSON File
 >
