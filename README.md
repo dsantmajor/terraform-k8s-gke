@@ -10,12 +10,11 @@
 
 > **app-engine-python**  ```gcloud components install app-engine-python```
 >
-> **kubectl** ```gcloud components install app-engine-python```
+> **kubectl** ```gcloud components install kubectl```
 >
 
 ### Install Terraform
-> ```curl -O https://releases.hashicorp.com/terraform/0.11.2/terraform_0.11.2_darwin_amd64.zip\?_ga\=2.187257576.1199271896.1516169701-677746182.1510952834```
->
+> https://www.terraform.io/downloads.html
 
 ### Authentication JSON File
 >
@@ -23,7 +22,7 @@
 >
 > This file is downloaded directly from the Google developers Console. To make the process more straightforwarded, it is documented here:
 >
-1. Log into the Google demoelopers Console and select a project.
+1. Log into the Google developer's Console and select a project.
 >
 1. The API Manager view should be selected, click on "Credentials" on the left, then "Create credentials", and finally "Service account key".
 >
